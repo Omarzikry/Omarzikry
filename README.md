@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Omar, Frontend developer from 🇪🇬 <b>Cairo, Egypt</b>, currently living in <img src="https://www.flaticon.com/svg/vstatic/svg/630/630612.svg?token=exp=1614369055~hmac=876d6d095f4d4638ac7c7b191c82d272" width="13"/> <b>Liepaja, Latvia</b>. </p>
+<p>Welcome to my page! </br> I'm Omar, Frontend developer from 🇪🇬 <b>Cairo, Egypt</b>, currently living in 🇱🇻 <b>Liepaja, Latvia</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
